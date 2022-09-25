@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Liliang Ren's Homepage # the website title (if blank, full name will be used instead)
+title: Liliang Ren # the website title (if blank, full name will be used instead)
 first_name: Liliang
 middle_name: 
 last_name: Ren
@@ -16,7 +16,7 @@ email: liliang3@illinois.edu
 # keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://renll.github.io # the base hostname & protocol for your site
 # baseurl: /al-folio # the subpath of your site, e.g. /blog/
@@ -93,8 +93,8 @@ instagram_id: # your instagram id
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+# contact_note: >
+#   You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -230,8 +230,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Ren
+  first_name: [Liliang]
 
   style: apa
   locale: en
