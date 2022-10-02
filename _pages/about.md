@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://cs.illinois.edu/'>Computer Science Department, UIUC</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>2113A Siebel Center</p>
+    <p>201 North Goodwin Avenue</p>
+    <p>Urbana, IL 61801, USA</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am a third-year PhD candidate in the [Text Information Management and Analysis Group](https://timan.cs.illinois.edu/ir/), affiliated with the [Data and Information Systems Laboratory](https://dais.cs.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/). I am fortunate to be advised by [Chengxiang Zhai](http://czhai.cs.illinois.edu/), and work with [Heng Ji](http://blender.cs.illinois.edu/hengji.html) and [Julia Hockenmaier](https://juliahmr.cs.illinois.edu/). I finished my master degree at University of California San Diego in 2020, advised by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), and my undergraduate degree at Shanghai Jiao Tong University in 2018, working with [Kai Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interest generally lies in the scalability and interpretability aspects of neural networks, with the applications to Information Extraction and Dialogue System. I am striving to answer the following research questions: 
+* Can deep neural networks develop its own language (*i.e.*, sparse, structured and discrete latent representations) during large-scale self-supervised learning? 
+* Can we leverage sparse latent decisions to improve generalizability, interpretability and scalability of the foundation models? 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In the past, I mainly worked on improving the generalizability [[EMNLP 18]](https://arxiv.org/abs/1810.09587) and the scalability [[EMNLP 19]](https://arxiv.org/abs/1909.00754) of dialogue state tracking for task-oriented dialogue system. 
+
+For a completed list of publications, check [here](/publications/).
