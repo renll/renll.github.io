@@ -7,7 +7,7 @@ subtitle: <a href='https://cs.illinois.edu/'>Computer Science Department, UIUC</
 profile:
   align: right
   image: prof_pic.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>2113A Siebel Center</p>
     <p>201 North Goodwin Avenue</p>
