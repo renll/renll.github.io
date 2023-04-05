@@ -28,4 +28,5 @@ In the past, I mainly worked on improving the generalizability [[EMNLP 18]](http
 
 For a completed list of publications, check [here](/publications/).
 
-**I am open to research intership in summer 2023, please feel free to drop me an email if you find me a good match!** 
+<!-- **I am open to research intership in summer 2023, please feel free to drop me an email if you find me a good match!** 
+ -->
