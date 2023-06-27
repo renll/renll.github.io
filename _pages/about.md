@@ -1,9 +1,9 @@
 ---
-layout: about
-title: about
+layout: Bio
+title: Bio
 permalink: /
-subtitle: Contact: liliang3@illinois.edu
-
+subtitle: <a>Contact:liliang3@illinois.edu</a>.
+ 
 profile:
   align: right
   image: prof_pic.jpeg
