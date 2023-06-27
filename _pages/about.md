@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Bio
 permalink: /
 subtitle: <a>Contact:liliang3@illinois.edu</a>.
  
