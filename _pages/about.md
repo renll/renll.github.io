@@ -2,16 +2,11 @@
 layout: about
 title: Bio
 permalink: /
-subtitle: <a>Contact:liliang3@illinois.edu</a>.
  
 profile:
   align: right
   image: prof_pic.jpeg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>2113A Siebel Center</p>
-    <p>201 North Goodwin Avenue</p>
-    <p>Urbana, IL 61801, USA</p>
+  image_circular: true # crops the image to make it circular
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
