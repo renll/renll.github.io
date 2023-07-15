@@ -17,7 +17,7 @@ Hi! I am a third-year PhD candidate in [Computer Science](https://cs.illinois.ed
 
 My long-term research goal is to develop artifical neural architectures that have human-level efficiency and interpretability, and apply them to discover new structured knowledge from natural signals.
 
-* **Efficient and Interpretable Sequence Modeling**: dynamic and modular sparsity for long sequence Modeling, language modeling with latent type learning.
+* **Efficient and Interpretable Sequence Modeling**: dynamic and modular sparsity for long sequence modeling, language modeling with latent type learning.
 * **Structured Text Generation**: text-to-graph extraction, dialogue state tracking and generation.
 
 <!-- In the past, I mainly worked on improving the generalizability [[EMNLP 18]](https://arxiv.org/abs/1810.09587) and the scalability [[EMNLP 19]](https://arxiv.org/abs/1909.00754) of dialogue state tracking for task-oriented dialogue system. 
