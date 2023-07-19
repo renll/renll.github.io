@@ -1,5 +1,38 @@
 ---
 ---
+@article{ren2023sparse,
+  title   = {Sparse Modular Activation for Efficient Sequence Modeling},
+  author  = {Liliang Ren and Yang Liu and Shuohang Wang and Yichong Xu and Chenguang Zhu and ChengXiang Zhai},
+  year    = {2023},
+  abbr = {preprint},
+  journal = {arXiv preprint, },
+  selected={false},
+  website = "https://arxiv.org/abs/2306.11197",
+  abstract = "Linear State Space Models (SSMs) have demonstrated strong performance in a variety of sequence modeling tasks due to their efficient encoding of the recurrent structure. However, in more comprehensive tasks like language modeling and machine translation, self-attention-based models still outperform SSMs. Hybrid models employing both SSM and self-attention generally show promising performance, but current approaches apply attention modules statically and uniformly to all elements in the input sequences, leading to sub-optimal quality-efficiency trade-offs. In this work, we introduce Sparse Modular Activation (SMA), a general mechanism enabling neural networks to sparsely and dynamically activate sub-modules for sequence elements in a differentiable manner. Through allowing each element to skip non-activated sub-modules, SMA reduces computation and memory consumption at both training and inference stages of sequence modeling. As a specific instantiation of SMA, we design a novel neural architecture, SeqBoat, which employs SMA to sparsely activate a Gated Attention Unit (GAU) based on the state representations learned from an SSM. By constraining the GAU to only conduct local attention on the activated inputs, SeqBoat can achieve linear inference complexity with theoretically infinite attention span, and provide substantially better quality-efficiency trade-off than the chunking-based models. With experiments on a wide range of tasks, including language modeling, speech classification and long-range arena, SeqBoat brings new state-of-the-art results among hybrid models with linear complexity and reveals the amount of attention needed for each task through the learned sparse activation patterns.",
+}
+
+@article{ren2023cpmi,
+  title   = {C-PMI: Conditional Pointwise Mutual Information for Turn-level Dialogue Evaluation},
+  author  = {Liliang Ren and Mankeerat Sidhu and Qi Zeng and Revanth Gangi Reddy and Heng Ji and ChengXiang Zhai},
+  year    = {2023},
+  abbr = {DialDoc@ACL},
+  journal = {arXiv preprint,},
+  selected={false},
+  website = "https://arxiv.org/abs/2306.15245",
+  abstract = "Existing reference-free turn-level evaluation
+metrics for chatbots inadequately capture the
+interaction between the user and the system.
+Consequently, they often correlate poorly with
+human evaluations. To address this issue, we
+propose a novel model-agnostic approach that
+leverages Conditional Pointwise Mutual Information (C-PMI) to measure the turn-level interaction between the system and the user based
+on a given evaluation dimension. Experimental
+results on the widely used FED dialogue evaluation dataset demonstrate that our approach
+significantly improves the correlation with human judgment compared with existing evaluation systems. By replacing the negative loglikelihood-based scorer with our proposed CPMI scorer, we achieve a relative 60.5% higher
+Spearman correlation on average for the FED
+evaluation metric. Our code is publicly available at https://github.com/renll/C-PMI.",
+}
+
 
 @article{ren2022,
 
