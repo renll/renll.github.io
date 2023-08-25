@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I am a third-year PhD candidate in [Computer Science](https://cs.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/). I am fortunate to be advised by Prof. [Chengxiang Zhai](http://czhai.cs.illinois.edu/), and work with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) and Prof. [Julia Hockenmaier](https://juliahmr.cs.illinois.edu/). I finished my master degree at [University of California San Diego](https://jacobsschool.ucsd.edu/) advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), and my undergraduate degree at [Shanghai Jiao Tong University](https://www.ji.sjtu.edu.cn/) working with Prof. [Kai Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu).
 
-My long-term research goal is to develop artifical neural architectures with human-level efficiency and interpretability, and apply them to discover new structured knowledge from natural signals.
+My long-term research goal is to develop artifical neural architectures with human-level efficiency and interpretability, and apply them to discover new structured knowledge from natural signals. Specifically, I am interested in the following areas:
 
 * **Efficient and Interpretable Sequence Modeling**: dynamic and modular sparsity for long sequence modeling, language modeling with latent type learning.
 * **Structured Text Generation**: text-to-graph extraction, dialogue state tracking and generation.
