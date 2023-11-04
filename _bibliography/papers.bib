@@ -8,8 +8,29 @@
   abbr = {NeurIPS},
   journal = {Proceedings of the 37th Conference on Neural Information Processing Systems,},
   selected={true},
-  website = "https://arxiv.org/abs/2306.11197",
-  abstract = "Linear State Space Models (SSMs) have demonstrated strong performance in a variety of sequence modeling tasks due to their efficient encoding of the recurrent structure. However, in more comprehensive tasks like language modeling and machine translation, self-attention-based models still outperform SSMs. Hybrid models employing both SSM and self-attention generally show promising performance, but current approaches apply attention modules statically and uniformly to all elements in the input sequences, leading to sub-optimal quality-efficiency trade-offs. In this work, we introduce Sparse Modular Activation (SMA), a general mechanism enabling neural networks to sparsely and dynamically activate sub-modules for sequence elements in a differentiable manner. Through allowing each element to skip non-activated sub-modules, SMA reduces computation and memory consumption at both training and inference stages of sequence modeling. As a specific instantiation of SMA, we design a novel neural architecture, SeqBoat, which employs SMA to sparsely activate a Gated Attention Unit (GAU) based on the state representations learned from an SSM. By constraining the GAU to only conduct local attention on the activated inputs, SeqBoat can achieve linear inference complexity with theoretically infinite attention span, and provide substantially better quality-efficiency trade-off than the chunking-based models. With experiments on a wide range of tasks, including language modeling, speech classification and long-range arena, SeqBoat brings new state-of-the-art results among hybrid models with linear complexity and reveals the amount of attention needed for each task through the learned sparse activation patterns.",
+  paper = "https://arxiv.org/abs/2306.11197",
+  bibtex_show = {true},
+  abstract = " Recent hybrid models combining Linear State Space Models (SSMs) with
+self-attention mechanisms have demonstrated impressive results across a range
+of sequence modeling tasks. However, current approaches apply attention modules
+statically and uniformly to all elements in the input sequences, leading to
+sub-optimal quality-efficiency trade-offs. To address this limitation, we
+introduce Sparse Modular Activation (SMA), a general mechanism enabling neural
+networks to sparsely and dynamically activate sub-modules for sequence elements
+in a differentiable manner. Through allowing each element to skip non-activated
+sub-modules, SMA reduces computation and memory consumption of neural networks
+at both training and inference stages. To validate the effectiveness of SMA on
+sequence modeling, we design a novel neural architecture, SeqBoat, which
+employs SMA to sparsely activate a Gated Attention Unit (GAU) based on the
+state representations learned from an SSM. By constraining the GAU to only
+conduct local attention on the activated inputs, SeqBoat can achieve linear
+inference complexity with theoretically infinite attention span, and provide
+substantially better quality-efficiency trade-off than the chunking-based
+models. With experiments on a wide range of tasks, including long sequence
+modeling, speech classification and language modeling, SeqBoat brings new
+state-of-the-art results among hybrid models with linear complexity, and
+reveals the amount of attention needed for each task through the learned sparse
+activation patterns. Our code is publicly available at https://github.com/renll/SeqBoat.",
 }
 
 @article{ren2023cpmi,
@@ -18,9 +39,10 @@
   year    = {2023},
   month = july,
   abbr = {ACL DialDoc},
+  bibtex_show = {true},
   journal = {Proceedings of the ACL2023 Workshop on Document-grounded Dialogue and Conversational Question Answering,},
   selected={true},
-  website = "https://arxiv.org/abs/2306.15245",
+  paper = "https://arxiv.org/abs/2306.15245",
   abstract = "Existing reference-free turn-level evaluation
 metrics for chatbots inadequately capture the
 interaction between the user and the system.
@@ -44,10 +66,11 @@ title={Language Model Pre-Training with Sparse Latent Typing},
   journal={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing,},
   month = dec,
   year={2022},
+  bibtex_show = {true},
   selected={true},
   abbr = {EMNLP},
   abbr2 = {Oral},
-  website = "https://arxiv.org/abs/2210.12582",
+  paper = "https://arxiv.org/abs/2210.12582",
   abstract="Modern large-scale Pre-trained Language Models (PLMs) have achieved tremendous success on a wide range of downstream tasks. However, most of the LM pre-training objectives only focus on text reconstruction, but have not sought to learn latent-level interpretable representations of sentences. In this paper, we manage to push the language models to obtain a deeper understanding of sentences by proposing a new pre-training objective, Sparse Latent Typing, which enables the model to sparsely extract sentence-level keywords with diverse latent types. Experimental results show that our model is able to learn interpretable latent type categories in a self-supervised manner without using any external knowledge. Besides, the language model pre-trained with such an objective also significantly improves Information Extraction related downstream tasks in both supervised and few-shot settings. Our code is publicly available at: https://github.com/renll/SparseLT.",
 }
 
@@ -60,9 +83,10 @@ title={Language Model Pre-Training with Sparse Latent Typing},
     journal = {Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, },
     month = aug,
     year = {2021},
+    bibtex_show = {true},
     address = "Online",
     publisher = "Association for Computational Linguistics",
-    website = "https://aclanthology.org/2021.findings-acl.356",
+    paper = "https://aclanthology.org/2021.findings-acl.356",
     doi = "10.18653/v1/2021.findings-acl.356",
     pages = "4066--4078",
     abbr={ACL Findings},
@@ -78,9 +102,10 @@ title={Language Model Pre-Training with Sparse Latent Typing},
     journal = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), },
     month = nov,
     year = {2019},
+    bibtex_show = {true},
     address = "Hong Kong, China",
     publisher = "Association for Computational Linguistics",
-    website = "https://aclanthology.org/D19-1196",
+    paper = "https://aclanthology.org/D19-1196",
     doi = "10.18653/v1/D19-1196",
     pages = "1876--1885",
     abbr= {EMNLP},
@@ -98,9 +123,10 @@ title={Language Model Pre-Training with Sparse Latent Typing},
     journal = {Proceedings of the 19th Annual {SIG}dial Meeting on Discourse and Dialogue, },
     month = july,
     year = {2018},
+    bibtex_show = {true},
     address = "Melbourne, Australia",
     publisher = "Association for Computational Linguistics",
-    website = "https://aclanthology.org/W18-5022",
+    paper = "https://aclanthology.org/W18-5022",
     doi = "10.18653/v1/W18-5022",
     pages = "209--213",
     abbr = {SIGDIAL},
@@ -117,9 +143,10 @@ title={Language Model Pre-Training with Sparse Latent Typing},
     journal = {Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, },
     month = oct # "-" # nov,
     year = {2018},
+    bibtex_show = {true},
     address = "Brussels, Belgium",
     publisher = "Association for Computational Linguistics",
-    website = "https://aclanthology.org/D18-1299",
+    paper = "https://aclanthology.org/D18-1299",
     doi = "10.18653/v1/D18-1299",
     pages = "2780--2786",
     selected={true},
@@ -134,7 +161,8 @@ title={Language Model Pre-Training with Sparse Latent Typing},
   journal={arXiv preprint, },
   year={2020},
   selected={false},
-  website ="https://arxiv.org/abs/2003.10589",
+  bibtex_show = {true},
+  paper ="https://arxiv.org/abs/2003.10589",
   abbr = {preprint}
 }
 
@@ -145,6 +173,7 @@ title={Language Model Pre-Training with Sparse Latent Typing},
   year={2019},
   abbr = {preprint},
   selected={false},
-  website = "https://arxiv.org/abs/1912.02338",
+  bibtex_show = {true},
+  paper = "https://arxiv.org/abs/1912.02338",
 }
 
