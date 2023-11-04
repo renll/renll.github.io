@@ -23,7 +23,7 @@ My long-term research goal is to develop artifical neural architectures with sup
 <!-- In the past, I mainly worked on improving the generalizability [[EMNLP 18]](https://arxiv.org/abs/1810.09587) and the scalability [[EMNLP 19]](https://arxiv.org/abs/1909.00754) of dialogue state tracking for task-oriented dialogue system. 
  -->
  
-For a completed list of publications, please check [here](/publications/).
+For a complete list of publications, please check [here](/publications/).
 
 <!-- **I am open to research intership in summer 2023, please feel free to drop me an email if you find me a good match!** 
  -->
