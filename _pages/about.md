@@ -25,5 +25,5 @@ My long-term research goal is to develop artifical neural architectures with sup
  
 For a complete list of publications, please check [here](/publications/).
 
- **I am on the job market for research scientist positions in industry, please feel free to drop me an email if you find me a good match!** 
+ **I will join Microsoft GenAI as a Senior Researcher at Redmond starting from this summer.** 
  
