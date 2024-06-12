@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a final-year PhD candidate in [Computer Science](https://cs.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/). I am fortunate to be advised by Prof. [Chengxiang Zhai](http://czhai.cs.illinois.edu/), and work with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) and Prof. [Julia Hockenmaier](https://juliahmr.cs.illinois.edu/). I finished my master degree at [University of California San Diego](https://jacobsschool.ucsd.edu/) advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), and my undergraduate degree at [Shanghai Jiao Tong University](https://www.ji.sjtu.edu.cn/) working with Prof. [Kai Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu).
+Hi! I am a Senior Researcher at Microsoft GenAI, and a graduating PhD candidate in [Computer Science](https://cs.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/). I am fortunate to be advised by Prof. [Chengxiang Zhai](http://czhai.cs.illinois.edu/), and work with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) and Prof. [Julia Hockenmaier](https://juliahmr.cs.illinois.edu/). I finished my master degree at [University of California San Diego](https://jacobsschool.ucsd.edu/) advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), and my undergraduate degree at [Shanghai Jiao Tong University](https://www.ji.sjtu.edu.cn/) working with Prof. [Kai Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu).
 
 My long-term research goal is to develop artifical neural architectures with superhuman efficiency and interpretability, and apply them to discover new structured knowledge from natural signals. Specifically, I am interested in the following areas:
 
@@ -24,6 +24,4 @@ My long-term research goal is to develop artifical neural architectures with sup
  -->
  
 For a complete list of publications, please check [here](/publications/).
-
- **I will join Microsoft GenAI as a Senior Researcher at Redmond starting from this summer.** 
  
