@@ -13,12 +13,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a Senior Researcher at Microsoft GenAI, and a graduating PhD candidate in [Computer Science](https://cs.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/). I am fortunate to be advised by Prof. [Chengxiang Zhai](http://czhai.cs.illinois.edu/), and work with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) and Prof. [Julia Hockenmaier](https://juliahmr.cs.illinois.edu/). I finished my master degree at [University of California San Diego](https://jacobsschool.ucsd.edu/) advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), and my undergraduate degree at [Shanghai Jiao Tong University](https://www.ji.sjtu.edu.cn/) working with Prof. [Kai Yu](https://x-lance.github.io/kaiyu/).
+Hi! I am a Senior Researcher at Microsoft GenAI, and a PhD graduate from [Computer Science](https://cs.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/), where I am fortunate to be advised by Prof. [Chengxiang Zhai](http://czhai.cs.illinois.edu/). I obtained my master degree at [University of California San Diego](https://jacobsschool.ucsd.edu/) advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), and my undergraduate degree at [Shanghai Jiao Tong University](https://www.ji.sjtu.edu.cn/) working with Prof. [Kai Yu](https://x-lance.github.io/kaiyu/).
 
 My long-term research goal is to develop artifical neural architectures with superhuman efficiency and interpretability, and apply them to discover new structured knowledge from natural signals. Specifically, I am interested in the following areas:
 
 * **Efficient and Interpretable Sequence Modeling**: dynamic and modular sparsity for long sequence modeling, language modeling with latent type learning.
 * **Structured Text Generation**: text-to-graph extraction, dialogue state tracking and generation.
+
+Recently, I am interested in large-scale pretraining of hybrid and MoE models, and mid-training of frontier OpenAI models.
 
 <!-- In the past, I mainly worked on improving the generalizability [[EMNLP 18]](https://arxiv.org/abs/1810.09587) and the scalability [[EMNLP 19]](https://arxiv.org/abs/1909.00754) of dialogue state tracking for task-oriented dialogue system. 
  -->
