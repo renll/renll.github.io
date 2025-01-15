@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a Senior Researcher at Microsoft GenAI, and a PhD graduate from [Computer Science](https://cs.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/), where I am fortunate to be advised by Prof. [Chengxiang Zhai](http://czhai.cs.illinois.edu/). I obtained my master degree at [University of California San Diego](https://jacobsschool.ucsd.edu/) advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), and my undergraduate degree at [Shanghai Jiao Tong University](https://www.ji.sjtu.edu.cn/) working with Prof. [Kai Yu](https://x-lance.github.io/kaiyu/).
+Hi! I am a Senior Researcher at Microsoft GenAI, and a PhD graduate in [Computer Science](https://cs.illinois.edu/) from [University of Illinois Urbana-Champaign](https://illinois.edu/), where I am fortunate to be advised by Prof. [Chengxiang Zhai](http://czhai.cs.illinois.edu/). I obtained my master degree at [University of California San Diego](https://jacobsschool.ucsd.edu/) advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), and my undergraduate degree at [Shanghai Jiao Tong University](https://www.ji.sjtu.edu.cn/) working with Prof. [Kai Yu](https://x-lance.github.io/kaiyu/).
 
 My long-term research goal is to develop artifical neural architectures with superhuman efficiency and interpretability, and apply them to discover new structured knowledge from natural signals. Specifically, I am interested in the following areas:
 
