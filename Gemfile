@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'uri', '1.0.2'
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
@@ -16,7 +17,6 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'uri', '1.0.2'
 end
 group :other_plugins do
     gem 'httparty'
