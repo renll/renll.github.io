@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem update bundler
     gem 'uri', '1.0.2'
     gem 'jekyll'
     gem 'jekyll-archives'
