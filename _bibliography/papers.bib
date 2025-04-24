@@ -1,5 +1,36 @@
 ---
 ---
+@article{ren2025samba,
+  title   = {Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling},
+  author  = {Liliang Ren and Yang Liu and Yadong Lu and Yelong Shen and Chen Liang and Weizhu Chen},
+  year    = {2025},
+  month = april,
+  abbr = {ICLR},
+  journal = {Proceedings of The Thirteenth International Conference on Learning Representations,},
+  selected={true},
+  paper = "https://arxiv.org/abs/2406.07522",
+  bibtex_show = {true},
+  code = "https://github.com/microsoft/Samba",
+  poster = "https://drive.google.com/file/d/1bfK6aSH4O7G_ndIH835KfdQMCcqw8txJ/view?usp=sharing",
+  slides = "https://docs.google.com/presentation/d/1SUGKM_sTKgb-wXSYvalWtD2O2qTKnYuMzid669GfJbU/edit?usp=sharing",
+  abstract = "Efficiently modeling sequences with infinite context length has long been a challenging problem. Previous approaches have either suffered from quadratic computational complexity or limited extrapolation ability in length generalization. In this
+work, we present SAMBA, a simple hybrid architecture that layer-wise combines
+Mamba, a selective State Space Model (SSM), with Sliding Window Attention
+(SWA). SAMBA selectively compresses a given sequence into recurrent hidden
+states while still maintaining the ability to precisely recall recent memories with the
+attention mechanism. We scale SAMBA up to 3.8B parameters with 3.2T training
+tokens and demonstrate that it significantly outperforms state-of-the-art models
+across a variety of benchmarks. Pretrained on sequences of 4K length, SAMBA
+shows improved perplexity in context lengths of up to 1M in zero-shot. When
+finetuned on 4K-length sequences, SAMBA efficiently extrapolates to a 256K context length with perfect memory recall on the Passkey Retrieval task, and exhibits
+superior retrieval extrapolation on the challenging Phonebook task compared to
+full-attention models. As a linear-time sequence model, SAMBA achieves a 3.73×
+higher throughput compared to Transformers with grouped-query attention for
+user prompts of 128K length, and a 3.64× speedup when generating 64K tokens
+with unlimited streaming. Our code for training on open source data is publicly
+available at https://github.com/microsoft/Samba.",
+}
+
 @article{ren2023sparse,
   title   = {Sparse Modular Activation for Efficient Sequence Modeling},
   author  = {Liliang Ren and Yang Liu and Shuohang Wang and Yichong Xu and Chenguang Zhu and ChengXiang Zhai},
