@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I am a Senior Researcher at Microsoft GenAI, and a PhD graduate in [Computer Science](https://cs.illinois.edu/) from [University of Illinois Urbana-Champaign](https://illinois.edu/), where I am fortunate to be advised by Prof. [Chengxiang Zhai](http://czhai.cs.illinois.edu/). I obtained my master degree at [University of California San Diego](https://jacobsschool.ucsd.edu/) advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), and my undergraduate degree at [Shanghai Jiao Tong University](https://www.ji.sjtu.edu.cn/) working with Prof. [Kai Yu](https://x-lance.github.io/kaiyu/).
 
-My long-term research goal is to develop artifical neural architectures with superhuman efficiency and capacity, and apply them to discover new structured knowledge from natural signals. I believe in the following quotes:
+My long-term research goal is to develop artificial neural architectures with superhuman efficiency and capacity, and to apply them toward discovering new structured knowledge from natural signals. I’m guided by two principles:
 
 * "Everything should be made as simple as possible, but not simpler." - Albert Einstein
 * "Don't give up on the intuition until you figured out why it's wrong." - Geoffrey Hinton
