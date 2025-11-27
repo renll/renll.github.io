@@ -1,4 +1,4 @@
-<img width="1776" height="1052" alt="image" src="https://github.com/user-attachments/assets/da4cd958-486c-45cf-ae9c-6e2c74c6e13e" />---
+---
 layout: about
 title: Bio
 permalink: /
