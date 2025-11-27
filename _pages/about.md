@@ -1,4 +1,4 @@
----
+<img width="1776" height="1052" alt="image" src="https://github.com/user-attachments/assets/da4cd958-486c-45cf-ae9c-6e2c74c6e13e" />---
 layout: about
 title: Bio
 permalink: /
@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a Senior Researcher at Microsoft CoreAI, and a PhD graduate in [Computer Science](https://cs.illinois.edu/) from [University of Illinois Urbana-Champaign](https://illinois.edu/), where I am fortunate to be advised by Prof. [Chengxiang Zhai](http://czhai.cs.illinois.edu/). I obtained my master degree at [University of California San Diego](https://jacobsschool.ucsd.edu/) advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), and my undergraduate degree at [Shanghai Jiao Tong University](https://www.ji.sjtu.edu.cn/) working with Prof. [Kai Yu](https://x-lance.github.io/kaiyu/).
+Hi! I am now a Member of Technical Staff at Microsoft CoreAI, and a PhD graduate in [Computer Science](https://cs.illinois.edu/) from [University of Illinois Urbana-Champaign](https://illinois.edu/), where I am fortunate to be advised by Prof. [Chengxiang Zhai](http://czhai.cs.illinois.edu/). I obtained my master degree at [University of California San Diego](https://jacobsschool.ucsd.edu/) advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), and my undergraduate degree at [Shanghai Jiao Tong University](https://www.ji.sjtu.edu.cn/) working with Prof. [Kai Yu](https://x-lance.github.io/kaiyu/).
 
 My long-term research goal is to develop artificial neural architectures with superhuman efficiency and capacity, and to apply them toward discovering new structured knowledge from natural signals. I believe in two principles:
 
