@@ -20,7 +20,7 @@ My long-term research goal is to develop artificial neural architectures with su
 * "Everything should be made as simple as possible, but not simpler." - Albert Einstein
 * "Don't give up on the intuition until you figured out why it's wrong." - Geoffrey Hinton
 
-Recently, I am interested in **large-scale pretraining** of hybrid and MoE models, and mid-training of frontier OpenAI models.
+Recently, I am interested in **large-scale pretraining** of frontier OpenAI models.
 
 <!-- In the past, I mainly worked on improving the generalizability [[EMNLP 18]](https://arxiv.org/abs/1810.09587) and the scalability [[EMNLP 19]](https://arxiv.org/abs/1909.00754) of dialogue state tracking for task-oriented dialogue system. 
  -->
